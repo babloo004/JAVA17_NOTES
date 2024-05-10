@@ -1,9 +1,3 @@
-# Java 17 Notes
-
-Welcome to the Java 17 Notes repository! Here you'll find daily updates and notes on Java 17 features, concepts, and best practices.
-
-Here's a template for a README file you could use to provide Java 17 notes on GitHub:
-
 ---
 
 # Java 17 Notes
@@ -12,15 +6,15 @@ Welcome to the Java 17 Notes repository! This repository contains comprehensive 
 
 ## Table of Contents
 
-1. Basics in java
-2. Class and object theory 1
-3. Encapsulation
-4. Inheritance and Polymorphism
-5. Abstract Classes
-6. Special Keyword in java
-7. Interfaces
-8. Class and object theory 2
-9. Access Specifiers
+01. Basics in java
+02. Class and object theory 1
+03. Encapsulation
+04. Inheritance and Polymorphism
+05. Abstract Classes
+06. Special Keyword in java
+07. Interfaces
+08. Class and object theory 2
+09. Access Specifiers
 10. Strings and Arrays
 11. Enumeration
 12. Collections
